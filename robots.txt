@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://peppermenta.github.io/publii-blog/sitemap.xml

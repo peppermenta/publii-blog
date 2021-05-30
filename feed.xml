@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Tarun Ram</title>
+    <link href="https://peppermenta.github.io/publii-blog/feed.xml" rel="self" />
+    <link href="https://peppermenta.github.io/publii-blog" />
+    <updated>1970-01-01T05:30:00+05:30</updated>
+    <author>
+        <name>Tarun Ram</name>
+    </author>
+    <id>https://peppermenta.github.io/publii-blog</id>
+
+</feed>
